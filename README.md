@@ -10,9 +10,9 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 **Day 2**
 + 9 - 9:15 ToDo JS Donut Lab
-+ 9:15 - 12:00 JavaScript Arrays and Loops
-+ 12:00 - 1:00 Lunch
-+ 1:00 - 1:30 Review of jQuery Fundamentals
++ 9:15 - 11:30 JavaScript Arrays and Loops
++ 11:30 - 12:30 Lunch
++ 12:30 - 1:00 Review of jQuery Fundamentals
 + 1:30 - 2:00 Improv
 + 2:00 - 2:50 Chrome extension lab here
 + 2:50 - 3:00 Daily wrap up
